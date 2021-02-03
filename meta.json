@@ -1,25 +1,25 @@
 [
   {
-    "tag_name": "v1.11.1",
+    "tag_name": "v1.12.1",
     "prerelease": false,
     "assets": [
       {
         "name": "sha1sum.txt.asc",
-        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.11.1/sha1sum.txt.asc"
+        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.12.1/sha1sum.txt.asc"
       },
       {
         "name": "sha256sum.txt.asc",
-        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.11.1/sha256sum.txt.asc"
+        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.12.1/sha256sum.txt.asc"
       },
       {
-        "name": "syncthing-linux-arm64-v1.11.1.tar.gz",
-        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.11.1/syncthing-linux-arm64-v1.11.1.tar.gz"
+        "name": "syncthing-linux-arm64-v1.12.1.tar.gz",
+        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.12.1/syncthing-linux-arm64-v1.12.1.tar.gz"
       },
       {
-        "name": "syncthing-windows-amd64-v1.11.1.zip",
-        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.11.1/syncthing-windows-amd64-v1.11.1.zip"
+        "name": "syncthing-windows-amd64-v1.12.1.zip",
+        "url": "https://raw.githubusercontent.com/sustsoft/syncthing-broad/main/v1.12.1/syncthing-windows-amd64-v1.12.1.zip"
       }
     ],
-    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v1.11.1"
+    "html_url": "https://github.com/syncthing/syncthing/releases/tag/v1.12.1"
   }
 ]
